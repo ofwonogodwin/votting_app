@@ -1,4 +1,4 @@
-# The Polling App 
+# The Polling App (In Development)
 
 This is a simple polling/voting application built with Django, where users can vote on questions and view real-time results.
 
